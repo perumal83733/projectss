@@ -1,0 +1,7 @@
+version: '3'
+services:
+  my_image:
+    image: perumal007/custom-web-application
+
+    ports:
+      - 80:80
